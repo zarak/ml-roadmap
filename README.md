@@ -11,7 +11,7 @@ Organized collection of resources for self-studying machine learning.
 3. Algebra
   - [Math 122](http://wayback.archive-it.org/3671/20150528171650/https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra)
   - [Algebra](http://www.goodreads.com/book/show/1247754.Algebra?from_search=true) by Michael Artin
-4. Toplogy
+4. Topology
   - [General Topology](https://www.youtube.com/playlist?list=PLpG_ISEhQ6z0Q5MaIvdn5tBJFWfp9fZtQ)
   - [Topology](http://www.goodreads.com/book/show/116418.Topology) by James Munkres
   
