@@ -1,5 +1,5 @@
 # ml-roadmap
-Organized collection of resources for self-studying machine learning.
+Collection of resources for self-studying machine learning.
 
 ## Mathematics
 1. Multivariable Calculus and Linear Algebra
@@ -14,6 +14,10 @@ Organized collection of resources for self-studying machine learning.
 4. Topology
   - [General Topology](https://www.youtube.com/playlist?list=PLpG_ISEhQ6z0Q5MaIvdn5tBJFWfp9fZtQ)
   - [Topology](http://www.goodreads.com/book/show/116418.Topology) by James Munkres
+5. Functional Analysis
+  - [Functional Analysis](https://www.youtube.com/playlist?list=PLAvgI3H-gclZa-DVTMyUIAxM-X8NSikwu)
+  - [Applied Functional Analysis - UCCS MathOnline Course 535](https://www.youtube.com/playlist?list=PLBC73B96341ECF455)
+  - [Introductory Functional Analysis with Applications](http://www.goodreads.com/book/show/241452.Introductory_Functional_Analysis_with_Applications)
   
 ## Machine Learning MOOCs
 1. [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
