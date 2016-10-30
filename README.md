@@ -24,14 +24,14 @@ Collection of resources for self-studying machine learning.
 
 
 ## Machine Learning MOOCs
-| Title | University | Programming Language | Textbook | Level |
-| --- | --- | --- | --- | --- | --- |
-| [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) | MIT | R | None | Undergraduate |
-| [Machine Learning](https://www.coursera.org/learn/machine-learning) by Stanford | Stanford | MATLAB/Octave | Undergraduate |
+| Title | University | Programming Language | Level |
+| --- | --- | --- | --- | --- | 
+| [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) | MIT | R | Undergraduate |
+| [Machine Learning](https://www.coursera.org/learn/machine-learning) | Stanford | MATLAB/Octave | Undergraduate |
 | [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) | Stanford | R | Undergraduate |
 | [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | Caltech | Any | Undergraduate |
 | [Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x) | MIT | Python | Undergraduate |
-| [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) by Columbia | Columbia | Python | Graduate |
+| [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) | Columbia | Python | Graduate |
 | [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford | MATLAB/Octave | Graduate |
 
 
