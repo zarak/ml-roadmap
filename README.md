@@ -21,15 +21,18 @@ Collection of resources for self-studying machine learning.
 6. Mathematical Statistics
   - [Mathematical Statistics I - UCCS MathOnline Couse 481](https://www.youtube.com/playlist?list=PL9520222F814EE9B6)
   - [Mathematical Statistics and Data Analysis](http://www.goodreads.com/book/show/1873819.Mathematical_Statistics_and_Data_Analysis) by John A. Rice
-  
+
+
 ## Machine Learning MOOCs
-1. [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
-2. [Machine Learning](https://www.coursera.org/learn/machine-learning) by Stanford
-3. [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-4. [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
-5. [Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x)
-6. [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) by Columbia
-7. [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
+| Title | University | Programming Language | Textbook | Level |
+| --- | --- | --- | --- | --- | --- |
+| [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) | MIT | R | None | Undergraduate |
+| [Machine Learning](https://www.coursera.org/learn/machine-learning) by Stanford | Stanford | MATLAB/Octave | Undergraduate |
+| [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) | Stanford | R | Undergraduate |
+| [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | Caltech | Any | Undergraduate |
+| [Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x) | MIT | Python | Undergraduate |
+| [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) by Columbia | Columbia | Python | Graduate |
+| [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford | MATLAB/Octave | Graduate |
 
 
 ## Computer Science
