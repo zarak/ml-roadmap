@@ -32,7 +32,7 @@ A collection of resources for self-studying machine learning, with a heavy focus
 | [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | Caltech | Any | Undergraduate |
 | [Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x) | MIT | Python | Undergraduate |
 | [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) | University of Toronto | Any | Undergraduate/Graduate |
-| [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) | Columbia | Python | Graduate |
+| [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) | Columbia | Python | Undergraduate/Graduate |
 | [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford | MATLAB/Octave | Graduate |
 
 
