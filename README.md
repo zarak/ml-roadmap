@@ -40,7 +40,7 @@ A collection of resources for self-studying machine learning, with a heavy focus
 1. [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x), MIT
 2. [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x), MIT
 3. [Algorithms I](https://www.coursera.org/learn/introduction-to-algorithms) and [Algorithms II](https://www.coursera.org/learn/java-data-structures-algorithms-2), Princeton University
-4. [Algorithm Specialization](https://www.coursera.org/specializations/algorithms), Stanford University
+4. [Algorithms Specialization](https://www.coursera.org/specializations/algorithms), Stanford University
 
 ## Other Relevant MOOCs
 1. [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization), The University of Melbourne
