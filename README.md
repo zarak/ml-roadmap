@@ -45,6 +45,7 @@ A collection of resources for self-studying machine learning, with a heavy focus
 ## Other Relevant MOOCs
 1. [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization), The University of Melbourne
 2. [Complex Analysis](https://www.coursera.org/learn/complex-analysis), Wesleyan University
+3. [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1), MIT
 
 ## Challenges
 1. [Kaggle](https://www.kaggle.com/)
