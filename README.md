@@ -1,5 +1,5 @@
 # ml-roadmap
-Collection of resources for self-studying machine learning.
+A collection of resources for self-studying machine learning, with a heavy focus on mathematics. An attempt is made to select canonical math textbooks, but they are primarily selected on the basis of the availability of corresponding video lectures. This list is not meant to be comprehensive, but rather focused and tailored to my own goals. 
 
 ## Mathematics
 1. Multivariable Calculus and Linear Algebra
@@ -37,8 +37,9 @@ Collection of resources for self-studying machine learning.
 
 ## Computer Science MOOCs
 1. [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) on edX, MIT
-2. [Algorithms I](https://www.coursera.org/learn/introduction-to-algorithms) and [Algorithms II](https://www.coursera.org/learn/java-data-structures-algorithms-2) on Coursera, Princeton University
-3. [Algorithm Specialization](https://www.coursera.org/specializations/algorithms) on Coursera, Stanford University
+2. [Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x)
+3. [Algorithms I](https://www.coursera.org/learn/introduction-to-algorithms) and [Algorithms II](https://www.coursera.org/learn/java-data-structures-algorithms-2) on Coursera, Princeton University
+4. [Algorithm Specialization](https://www.coursera.org/specializations/algorithms) on Coursera, Stanford University
 
 
 ## Challenges
