@@ -49,3 +49,4 @@ Collection of resources for self-studying machine learning.
 ## Miscellaneous
 1. [SciPy 2016: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
 2. [JMLR](http://www.jmlr.org/)
+3. [Deep Learning papers](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
