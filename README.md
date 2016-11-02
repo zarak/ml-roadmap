@@ -29,8 +29,8 @@ A collection of resources for self-studying machine learning, with a heavy focus
 | [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) | MIT | R | Undergraduate |
 | [Machine Learning](https://www.coursera.org/learn/machine-learning) | Stanford | MATLAB/Octave | Undergraduate |
 | [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) | Stanford | R | Undergraduate |
-| [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | Caltech | Any | Undergraduate |
 | [Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x) | MIT | Python | Undergraduate |
+| [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | Caltech | Any | Undergraduate |
 | [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) | University of Toronto | Any | Undergraduate/Graduate |
 | [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) | Columbia | Python | Undergraduate/Graduate |
 | [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford | MATLAB/Octave | Graduate |
