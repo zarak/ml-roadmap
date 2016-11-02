@@ -35,10 +35,10 @@ Collection of resources for self-studying machine learning.
 | [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford | MATLAB/Octave | Graduate |
 
 
-## Computer Science
-1. Software Construction in Java
-2. Algorithms I and II by Princeton
-3. Algorithm Design and Analysis by Stanford
+## Computer Science MOOCs
+1. [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) on edX, MIT
+2. [Algorithms I](https://www.coursera.org/learn/introduction-to-algorithms) and [Algorithms II](https://www.coursera.org/learn/java-data-structures-algorithms-2) on Coursera, Princeton University
+3. [Algorithm Specialization](https://www.coursera.org/specializations/algorithms) on Coursera, Stanford University
 
 
 ## Challenges
