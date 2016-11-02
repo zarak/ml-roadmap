@@ -3,7 +3,7 @@ Collection of resources for self-studying machine learning.
 
 ## Mathematics
 1. Multivariable Calculus and Linear Algebra
-  - Math 23a
+  - [Math 23a](http://isites.harvard.edu/icb/icb.do?keyword=k104176&pageid=icb.page699682)
   - [Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach](http://www.goodreads.com/book/show/631871.Vector_Calculus_Linear_Algebra_and_Differential_Forms?from_search=true) by Hubbard and Hubbard
 2. Real Analysis
   - [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
