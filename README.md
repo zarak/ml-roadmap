@@ -54,3 +54,4 @@ A collection of resources for self-studying machine learning, with a heavy focus
 2. [JMLR](http://www.jmlr.org/)
 3. [Deep Learning papers](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 4. [Practical Deep Learning for Coders, Part 1](http://course.fast.ai/index.html)
+5. [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
