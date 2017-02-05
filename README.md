@@ -40,7 +40,7 @@ A collection of resources for self-studying machine learning, with a heavy focus
 4. [Algorithms Specialization](https://www.coursera.org/specializations/algorithms), Stanford University
 
 ## Other Relevant MOOCs
-1. [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization), The University of Melbourne
+1. [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about), Stanford University
 2. [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1), MIT
 3. [Advanced Linear Models for Data Science 1: Least Squares](https://www.coursera.org/learn/linear-models) and [Advanced Linear Models for Data Science 2: Statistical Linear Models](https://www.coursera.org/learn/linear-models-2), Johns Hopkins University
 
