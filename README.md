@@ -18,9 +18,6 @@ A collection of resources for self-studying machine learning, with a heavy focus
   - [Functional Analysis](https://www.youtube.com/playlist?list=PLAvgI3H-gclZa-DVTMyUIAxM-X8NSikwu)
   - [Applied Functional Analysis - UCCS MathOnline Course 535](https://www.youtube.com/playlist?list=PLBC73B96341ECF455)
   - [Introductory Functional Analysis with Applications](http://www.goodreads.com/book/show/241452.Introductory_Functional_Analysis_with_Applications) by Erwin Kreyszig
-6. Mathematical Statistics
-  - [Mathematical Statistics I - UCCS MathOnline Couse 481](https://www.youtube.com/playlist?list=PL9520222F814EE9B6)
-  - [Mathematical Statistics and Data Analysis](http://www.goodreads.com/book/show/1873819.Mathematical_Statistics_and_Data_Analysis) by John A. Rice
 
 
 ## Machine Learning MOOCs
