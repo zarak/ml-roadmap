@@ -1,5 +1,5 @@
 # ml-roadmap
-A collection of resources for self-studying machine learning, with a heavy focus on mathematics. An attempt is made to select canonical math textbooks, but they are primarily selected on the basis of the availability of corresponding video lectures. This list is not meant to be comprehensive, but rather focused and tailored to my own goals. 
+A collection of resources for self-studying machine learning, with a focus on mathematics. An attempt is made to select canonical math textbooks, but they are primarily selected on the basis of the availability of corresponding video lectures. This list is not meant to be comprehensive, but rather focused and tailored to my own goals. 
 
 ## Mathematics
 1. Multivariable Calculus and Linear Algebra
