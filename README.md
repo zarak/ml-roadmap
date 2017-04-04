@@ -22,7 +22,7 @@ A collection of resources for self-studying machine learning, with a focus on ma
 
 ## Machine Learning MOOCs
 | Title | University | Programming Language | Level |  
-| --- | --- | --- | --- | --- |  
+| --- | --- | --- | --- |    
 | [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) | MIT | R | Undergraduate |  
 | [Machine Learning](https://www.coursera.org/learn/machine-learning) | Stanford | MATLAB/Octave | Undergraduate |  
 | [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) | Stanford |   R | Undergraduate |  
