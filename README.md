@@ -2,22 +2,14 @@
 A collection of resources for self-studying machine learning, with a focus on mathematics. An attempt is made to select canonical math textbooks, but they are primarily selected on the basis of the availability of corresponding video lectures. This list is not meant to be comprehensive, but rather focused and tailored to my own goals. 
 
 ## Mathematics
-1. Multivariable Calculus and Linear Algebra  
-    - Lecture videos: [Math 23a](http://isites.harvard.edu/icb/icb.do?keyword=k104176&pageid=icb.page699682)  
-    - Textbook: [Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach](http://www.goodreads.com/book/show/631871.Vector_Calculus_Linear_Algebra_and_Differential_Forms?from_search=true) by Hubbard and Hubbard
-2. Real Analysis
-  - Lecture videos: [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
-  - Textbook: [Principles of Mathematical Analysis](http://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis) by Walter Rudin
-3. Algebra
-  - Lecture videos: [Math 122](http://wayback.archive-it.org/3671/20150528171650/https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra)
-  - Textbook: [Algebra](http://www.goodreads.com/book/show/1247754.Algebra?from_search=true) by Michael Artin
-4. Topology
-  - [Lecture videos: General Topology](https://www.youtube.com/playlist?list=PLpG_ISEhQ6z0Q5MaIvdn5tBJFWfp9fZtQ)
-  - Textbook: [Topology](http://www.goodreads.com/book/show/116418.Topology) by James Munkres
-5. Functional Analysis
-  - Lecture videos: [Functional Analysis](https://www.youtube.com/playlist?list=PLAvgI3H-gclZa-DVTMyUIAxM-X8NSikwu)
-  - Lecture videos: [Applied Functional Analysis - UCCS MathOnline Course 535](https://www.youtube.com/playlist?list=PLBC73B96341ECF455)
-  - Textbook: [Introductory Functional Analysis with Applications](http://www.goodreads.com/book/show/241452.Introductory_Functional_Analysis_with_Applications) by Erwin Kreyszig
+
+| Topic | Lecture Videos | Textbooks |  
+| --- | --- | --- |  
+| Multivariable Calculus and Linear Algebra | [Math 23a](http://isites.harvard.edu/icb/icb.do?keyword=k104176&pageid=icb.page699682) | [Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach](http://www.goodreads.com/book/show/631871.Vector_Calculus_Linear_Algebra_and_Differential_Forms?from_search=true) by Hubbard and Hubbard |  
+| Real Analysis | [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC) | [Principles of Mathematical Analysis](http://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis) by Walter Rudin |  
+| Algebra | [Math 122](http://wayback.archive-it.org/3671/20150528171650/https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra) | [Algebra](http://www.goodreads.com/book/show/1247754.Algebra?from_search=true) by Michael Artin |  
+| Topology | [General Topology](https://www.youtube.com/playlist?list=PLpG_ISEhQ6z0Q5MaIvdn5tBJFWfp9fZtQ) | [Topology](http://www.goodreads.com/book/show/116418.Topology) by James Munkres |  
+| Functional Analysis | [Functional Analysis](https://www.youtube.com/playlist?list=PLAvgI3H-gclZa-DVTMyUIAxM-X8NSikwu) <br>  [Applied Functional Analysis - UCCS MathOnline Course 535](https://www.youtube.com/playlist?list=PLBC73B96341ECF455) | [Introductory Functional Analysis with Applications](http://www.goodreads.com/book/show/241452.Introductory_Functional_Analysis_with_Applications) by Erwin Kreyszig |  
 
 
 ## Machine Learning MOOCs
