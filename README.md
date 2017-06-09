@@ -47,5 +47,6 @@ A collection of resources for self-studying machine learning, with a focus on ma
 3. [Deep Learning papers](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 4. [Practical Deep Learning for Coders, Part 1](http://course.fast.ai/index.html)
 5. [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
-6. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-7. [CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
+6. [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+7. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+8. [CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
