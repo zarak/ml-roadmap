@@ -13,15 +13,13 @@ A collection of resources for self-studying machine learning, with a focus on ma
 
 
 ## Machine Learning MOOCs
-| Title | University | Programming Language | Level |  
-| --- | --- | --- | --- |    
-| [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2) | MIT | R | Undergraduate |  
-| [Machine Learning](https://www.coursera.org/learn/machine-learning) | Stanford | MATLAB/Octave | Undergraduate |  
-| [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) | Stanford |   R | Undergraduate |  
-| [Computational Probability and Inference](https://www.edx.org/course/computational-probability-inference-mitx-6-008-1x) |   MIT | Python | Undergraduate |  
-| [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | Caltech | Any |   Undergraduate |  
-| [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) | University of Toronto | Any | Undergraduate/Graduate |   
-| [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) | Columbia | Python, MATLAB | Graduate |  
+| Title | University | Programming Language |  
+| --- | --- | --- | --- |     
+| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Stanford | Python |  
+| [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) | Stanford |   R |   
+| [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | Caltech | Any |   
+| [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) | University of Toronto | Any |  
+| [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) | Columbia | Python, MATLAB |  
 | [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford |   MATLAB/Octave | Graduate |  
 
 
