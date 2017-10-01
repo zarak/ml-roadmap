@@ -5,7 +5,7 @@ A collection of resources for self-studying machine learning, with a focus on ma
 
 | Topic | Lecture Videos | Textbook |  
 | --- | --- | --- |  
-| Multivariable Calculus and Linear Algebra | [Math 23a](http://isites.harvard.edu/icb/icb.do?keyword=k104176&pageid=icb.page699682) | [Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach](http://www.goodreads.com/book/show/631871.Vector_Calculus_Linear_Algebra_and_Differential_Forms?from_search=true) by Hubbard and Hubbard |  
+| Multivariable Calculus and Linear Algebra | [Math 23a](https://canvas.harvard.edu/courses/18236) | [Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach](http://www.goodreads.com/book/show/631871.Vector_Calculus_Linear_Algebra_and_Differential_Forms?from_search=true) by Hubbard and Hubbard |  
 | Real Analysis | [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC) | [Principles of Mathematical Analysis](http://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis) by Walter Rudin |  
 | Algebra | [Math 122](http://wayback.archive-it.org/3671/20150528171650/https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra) | [Algebra](http://www.goodreads.com/book/show/1247754.Algebra?from_search=true) by Michael Artin |  
 | Topology | [General Topology](https://www.youtube.com/playlist?list=PLpG_ISEhQ6z0Q5MaIvdn5tBJFWfp9fZtQ) | [Topology](http://www.goodreads.com/book/show/116418.Topology) by James Munkres |  
