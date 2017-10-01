@@ -14,7 +14,7 @@ A collection of resources for self-studying machine learning, with a focus on ma
 
 ## Machine Learning MOOCs
 | Title | University | Programming Language |  
-| --- | --- | --- | --- |     
+| --- | --- | --- |     
 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Stanford | Python |  
 | [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) | Stanford |   R |   
 | [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | Caltech | Any |   
