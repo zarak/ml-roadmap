@@ -10,6 +10,7 @@ A collection of resources for self-studying machine learning, with a focus on ma
 | Algebra | [Math 122](http://wayback.archive-it.org/3671/20150528171650/https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra) | [Algebra](http://www.goodreads.com/book/show/1247754.Algebra?from_search=true) by Michael Artin |  
 | Topology | [Topology by Bruno Zimmerman](https://www.youtube.com/watch?v=PXIcas22MtQ&list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx) | [Topology](http://www.goodreads.com/book/show/116418.Topology) by James Munkres |  
 | Algebraic Topology | [Algebraic Topology - Pierre Albin](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b) <br>  [Algebraic Topology - N J Wildberger](https://www.youtube.com/playlist?list=PL6763F57A61FE6FE8) | [Algebraic Topology](https://www.goodreads.com/book/show/108087.Algebraic_Topology) by Allen Hatcher|  
+| Category Theory | [Category Theory Foundations - Steve Awodey](https://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb) | [Category Theory](https://www.goodreads.com/book/show/2047855.Category_Theory) by Steve Awodey |  
 
 
 ## Machine Learning MOOCs
