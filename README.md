@@ -9,7 +9,7 @@ A collection of resources for self-studying machine learning, with a focus on ma
 | Real Analysis | [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC) | [Principles of Mathematical Analysis](http://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis) by Walter Rudin |  
 | Algebra | [Math 122](http://wayback.archive-it.org/3671/20150528171650/https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra) | [Algebra](http://www.goodreads.com/book/show/1247754.Algebra?from_search=true) by Michael Artin |  
 | Topology | [Topology by Bruno Zimmerman](https://www.youtube.com/watch?v=PXIcas22MtQ&list=PLLq_gUfXAnkl8bjQh-hGQ9u24xZP9x0dx) | [Topology](http://www.goodreads.com/book/show/116418.Topology) by James Munkres |  
-| Functional Analysis | [Functional Analysis](https://www.youtube.com/playlist?list=PLAvgI3H-gclZa-DVTMyUIAxM-X8NSikwu) <br>  [Applied Functional Analysis - UCCS MathOnline Course 535](https://www.youtube.com/playlist?list=PLBC73B96341ECF455) | [Introductory Functional Analysis with Applications](http://www.goodreads.com/book/show/241452.Introductory_Functional_Analysis_with_Applications) by Erwin Kreyszig |  
+| Algebraic Topology | [Algebraic Topology - Pierre Albin](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b) <br>  [Algebraic Topology - N J Wildberger](https://www.youtube.com/playlist?list=PL6763F57A61FE6FE8) | [Algebraic Topology](https://www.goodreads.com/book/show/108087.Algebraic_Topology) by Allen Hatcher|  
 
 
 ## Machine Learning MOOCs
