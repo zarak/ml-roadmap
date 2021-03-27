@@ -17,7 +17,7 @@ A collection of resources for self-studying machine learning, with a focus on ma
 | Title | University | Programming Language |  
 | --- | --- | --- |     
 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Stanford | Python |  
-| [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) | Stanford |   R |   
+| [Statistical Learning](https://www.edx.org/course/statistical-learning) | Stanford |   R |   
 | [Learning from Data](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x) | Caltech | Any |   
 | [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) | University of Toronto | Any |  
 | [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) | Columbia | Python, MATLAB |  
@@ -33,7 +33,8 @@ A collection of resources for self-studying machine learning, with a focus on ma
 4. [Algorithms Specialization](https://www.coursera.org/specializations/algorithms), Stanford University
 
 ## Other Relevant MOOCs
-1. [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about), Stanford University
+1. [Convex Optimization](https://www.edx.org/course/convex-optimization), Stanford University
+1. [Automata Theory](https://www.edx.org/course/automata-theory), Stanford University
 2. [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1), MIT
 3. [Advanced Linear Models for Data Science 1: Least Squares](https://www.coursera.org/learn/linear-models) and [Advanced Linear Models for Data Science 2: Statistical Linear Models](https://www.coursera.org/learn/linear-models-2), Johns Hopkins University
 
