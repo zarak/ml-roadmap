@@ -52,3 +52,4 @@ A collection of resources for self-studying machine learning, with a focus on ma
 6. [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 7. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 8. [CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
+9. [Bayesian Data Analysis Course](https://avehtari.github.io/BDA_course_Aalto/index.html)
