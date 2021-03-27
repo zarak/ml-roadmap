@@ -23,6 +23,7 @@ A collection of resources for self-studying machine learning, with a focus on ma
 | [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x) | Columbia | Python, MATLAB |  
 | [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Stanford |   MATLAB/Octave | Graduate |  
 | [Machine Learning with Python](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) | MIT | Python | Graduate |  
+| [Machine Learning for Healthcare](https://www.edx.org/course/machine-learning-for-healthcare) | MIT | Python | Graduate |  
 
 
 ## Computer Science MOOCs
